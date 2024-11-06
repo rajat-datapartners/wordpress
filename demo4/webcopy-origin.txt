@@ -1,0 +1,996 @@
+Uri: https://techex.windstripedesign.ro/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/css/animate.min.css
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/css/animate.min.css?efcb014a6f41a6d880968ea58653b58d
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\css\animate.min-1.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/css/font-awesome-5.min.css
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\css\font-awesome-5.min.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?efcb014a6f41a6d880968ea58653b58d
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\css\font-awesome-5.min-1.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?efcb014a6f41a6d880968ea58653b58d
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\css\font-awesome-v4-shims-1.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/css/js_slider.css
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\css\js_slider.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/css/sppagebuilder.css
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\css\sppagebuilder.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/css/sppagebuilder.css?efcb014a6f41a6d880968ea58653b58d
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\css\sppagebuilder-1.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/js/gmap.js
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\js\gmap.js
+Content Type: application/javascript
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/js/jquery.parallax.js?efcb014a6f41a6d880968ea58653b58d
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\js\jquery.parallax.js
+Content Type: application/javascript
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/js/js_slider.js
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\js\js_slider.js
+Content Type: application/javascript
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/js/sppagebuilder.js?efcb014a6f41a6d880968ea58653b58d
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\js\sppagebuilder.js
+Content Type: application/javascript
+
+Uri: https://techex.windstripedesign.ro/components/com_sppagebuilder/assets/js/sp_carousel.js
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_sppagebuilder\assets\js\sp_carousel.js
+Content Type: application/javascript
+
+Uri: https://techex.windstripedesign.ro/components/com_spsimpleportfolio/assets/css/featherlight.min.css
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_spsimpleportfolio\assets\css\featherlight.min.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/components/com_spsimpleportfolio/assets/css/spsimpleportfolio.css
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_spsimpleportfolio\assets\css\spsimpleportfolio.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/components/com_spsimpleportfolio/assets/js/featherlight.min.js
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_spsimpleportfolio\assets\js\featherlight.min.js
+Content Type: application/javascript
+
+Uri: https://techex.windstripedesign.ro/components/com_spsimpleportfolio/assets/js/jquery.shuffle.modernizr.min.js
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_spsimpleportfolio\assets\js\jquery.shuffle.modernizr.min.js
+Content Type: application/javascript
+
+Uri: https://techex.windstripedesign.ro/components/com_spsimpleportfolio/assets/js/spsimpleportfolio.js
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\components\com_spsimpleportfolio\assets\js\spsimpleportfolio.js
+Content Type: application/javascript
+
+Uri: https://techex.windstripedesign.ro/en/
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\index.htm
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/about
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\about.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/case-details/1-business-knowledge
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\case-details\1-business-knowledge.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/case-details/2-business-knowledge-2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\case-details\2-business-knowledge-2.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/case-details/3-relationship-buildup
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\case-details\3-relationship-buildup.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/case-details/4-financial-investment
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\case-details\4-financial-investment.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/case-details/5-research-market-plan
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\case-details\5-research-market-plan.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/case-details/6-business-knowledge-3
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\case-details\6-business-knowledge-3.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/contact
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\contact.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/home/home-1
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\home\home-1.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/home/home-2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\home\home-2.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/home/home-3
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\home\home-3.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/home/home-4
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\home\home-4.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-5/news-list
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-5\news-list.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-5/news-list/beyond-tools-how-building-a-design-system-can-improve-how-you-work
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-5\news-list\beyond-tools-how-building-a-design-system-can-improve-how-you-work.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-5/news-list/beyond-tools-how-building-a-design-system-can-improve-how-you-work-2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-5\news-list\beyond-tools-how-building-a-design-system-can-improve-how-you-work-2.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-5/news-list/designing-for-user-interfaces-icons-as-visual-elements-for-screen-design
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-5\news-list\designing-for-user-interfaces-icons-as-visual-elements-for-screen-design.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-5/news-list/should-you-do-when-a-webs-design-trend-becomes
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-5\news-list\should-you-do-when-a-webs-design-trend-becomes.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-5/news-list?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-5\news-list-2
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/news-5/news-list?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-5\news-list-1
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/business
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\business.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/business/optimiz-for-assistive-technology-users
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\business\optimiz-for-assistive-technology-users.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/business/user-s-perspes-using-story-structure
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\business\user-s-perspes-using-story-structure.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/business?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\business-2
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/business?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\business-1
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/consultant
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\consultant.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/consultant/how-to-space-and-kern-punct-marks-other-symbols
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\consultant\how-to-space-and-kern-punct-marks-other-symbols.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/consultant/make-honest-design-work-as-for-digital-business
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\consultant\make-honest-design-work-as-for-digital-business.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/consultant/should-you-do-when-a-webs-design-trend-becomes
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\consultant\should-you-do-when-a-webs-design-trend-becomes.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/consultant?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\consultant-2
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/consultant?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\consultant-1
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/education
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\education.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/education?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\education-1
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/education?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\education
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/events
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\events.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/events/lorem-ipsum-dolor-sit-cing-elit-sed-do
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\events\lorem-ipsum-dolor-sit-cing-elit-sed-do.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/events/lorem-ipsum-dolor-sit-cing-elit-sed-do-2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\events\lorem-ipsum-dolor-sit-cing-elit-sed-do-2.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/events/lorem-ipsum-dolor-sit-cing-elit-sed-do-3
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\events\lorem-ipsum-dolor-sit-cing-elit-sed-do-3.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/events/lorem-ipsum-dolor-sit-cing-elit-sed-do-4
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\events\lorem-ipsum-dolor-sit-cing-elit-sed-do-4.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/events?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\events-2
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/events?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\events-1
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/help
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\help.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/help/how-to-space-and-kern-punct-marks-other-symbols
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\help\how-to-space-and-kern-punct-marks-other-symbols.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/help/make-honest-design-work-as-for-digital-business
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\help\make-honest-design-work-as-for-digital-business.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/help/should-you-do-when-a-webs-design-trend-becomes
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\help\should-you-do-when-a-webs-design-trend-becomes.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/help?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\help-2
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5/help?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5\help-1
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5-2
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/news-list-5?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news-list-5-1
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/news/news-list
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news\news-list.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/news/news-list?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news\news-list-1
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/news/news-list?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\news\news-list
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/pages/case-details2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\pages\case-details2.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/pages/case-grid
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\pages\case-grid.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/pages/case-two
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\pages\case-two.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/pages/faq
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\pages\faq.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/pages/team
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\pages\team.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/pages/team-details
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\pages\team-details.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/services/services-details
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\services\services-details.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/services/services2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\services\services2.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/charity
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\charity.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/charity?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\charity-1
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/charity?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\charity
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/donate
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\donate.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/donate?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\donate-1
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/donate?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\donate
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/event
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\event.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/event?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\event-1
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/event?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\event
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/food
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\food.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/food?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\food-1
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/food?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\food
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/help
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\help.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/help?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\help-1
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/help?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\help
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/ui
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\ui.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/ui?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\ui-1
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/ui?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\ui
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/ux
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\ux.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/ux?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\ux-1
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/ux?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\ux
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/water
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\water.html
+Content Type: text/html
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/water?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\water-1
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5/water?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5\water
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5?format=feed&type=atom
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5-2
+Content Type: application/atom+xml
+
+Uri: https://techex.windstripedesign.ro/en/tags-page-5?format=feed&type=rss
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\en\tags-page-5-1
+Content Type: application/rss+xml
+
+Uri: https://techex.windstripedesign.ro/images/2022/05/12/b1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\2022\05\12\b1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/2022/05/12/b2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\2022\05\12\b2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/2022/05/12/b3.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\2022\05\12\b3.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/about-big-thumb-1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\about-big-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/about-big-thumb-2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\about-big-thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/about_list.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\about_list.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/blog/b1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\blog\b1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/blog/b2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\blog\b2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/blog/post-inner.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\blog\post-inner.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/blog/pp1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\blog\pp1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/blog/pp2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\blog\pp2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/blog/pp3.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\blog\pp3.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/blog/pp4.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\blog\pp4.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/blog1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/blog2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/blog3.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/blog_bg.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\blog_bg.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/brand/1.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\brand\1.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/brand/2.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\brand\2.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/brand/3.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\brand\3.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/brand/4.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\brand\4.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/brand/b4.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\brand\b4.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/case/p1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\case\p1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/case/p2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\case\p2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/case/p3.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\case\p3.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/case/p4.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\case\p4.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/cs-form-bg.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\cs-form-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/cta-bg.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\cta-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/cta-bg4.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\cta-bg4.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/cta5.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\cta5.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/cta_bg1.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\cta_bg1.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/dot-circle.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\dot-circle.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/faq_home_2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\faq_home_2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/favicon.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\favicon.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/footer-whitel-logo.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\footer-whitel-logo.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/funfact-line.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\funfact-line.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/home1/about-us.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home1\about-us.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home1/feature_img.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home1\feature_img.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home1/hero1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home1\hero1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home1/hero2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home1\hero2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home1/testi1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home1\testi1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home1/wave.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home1\wave.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/home2/cs1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home2\cs1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home2/cs2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home2\cs2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home2/cs3.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home2\cs3.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home2/cs4.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home2\cs4.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home2/cs5.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home2\cs5.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home2/cs6.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home2\cs6.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home2/s1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home2\s1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home2/s2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home2\s2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home2/s3.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home2\s3.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home2/slide1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home2\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home2/slide2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home2\slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home3/footer_bg.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home3\footer_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home3/s1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home3\s1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home3/s2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home3\s2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home3/s3.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home3\s3.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home3/s4.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home3\s4.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home3/slide1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home3\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home4/about.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\about.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home4/cs1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\cs1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home4/cs2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\cs2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home4/cs3.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\cs3.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home4/dot4.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\dot4.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/home4/funfact-line.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\funfact-line.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/home4/hero-4.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\hero-4.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/home4/ring.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\ring.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/home4/s1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\s1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home4/s2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\s2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home4/s3.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\s3.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home4/s4.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\s4.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home4/s5.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\s5.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home4/s6.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\s6.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home4/star.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\star.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/home4/tm1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\tm1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home4/tm2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\tm2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home4/tm3.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\tm3.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/home4/tm4.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\home4\tm4.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/icon/sicon1.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\icon\sicon1.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/icon/sicon2.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\icon\sicon2.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/icon/sicon3.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\icon\sicon3.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/icon/sicon4.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\icon\sicon4.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/logo-2.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\logo-2.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/logo.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\logo.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/page-banner.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\page-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/service-details-content.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\service-details-content.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/service-details-content2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\service-details-content2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/skill_freatured_img.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\skill_freatured_img.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/skill_video_bg.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\skill_video_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/slide_bg_circle.png
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\slide_bg_circle.png
+Content Type: image/png
+
+Uri: https://techex.windstripedesign.ro/images/spsimpleportfolio/business-knowledge-2/2_600x600.jpg?width=370&height=320
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\spsimpleportfolio\business-knowledge-2\2_600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/spsimpleportfolio/business-knowledge-3/6_600x600.jpg?width=370&height=320
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\spsimpleportfolio\business-knowledge-3\6_600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/spsimpleportfolio/business-knowledge/1_600x600.jpg?width=370&height=321
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\spsimpleportfolio\business-knowledge\1_600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/spsimpleportfolio/financial-investment/4_600x600.jpg?width=370&height=320
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\spsimpleportfolio\financial-investment\4_600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/spsimpleportfolio/relationship-buildup/3_600x600.jpg?width=370&height=320
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\spsimpleportfolio\relationship-buildup\3_600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/spsimpleportfolio/research-market-plan/5_600x600.jpg?width=370&height=320
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\spsimpleportfolio\research-market-plan\5_600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/team/team1.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\team\team1.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/team/team2.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\team\team2.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/team/team3.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\team\team3.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/team/team4.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\team\team4.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/team/team5.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\team\team5.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/team/team6.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\team\team6.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/team/team7.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\team\team7.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/team/team8.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\team\team8.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/images/testi_bg.jpg
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\images\testi_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://techex.windstripedesign.ro/media/com_finder/js/finder-es5.min.js?e6d3d1f535e33b5641e406eb08d15093e7038cc2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\com_finder\js\finder-es5.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/com_finder/js/finder.min.js?a2c3894d062787a266d59d457ffba5481b639f64
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\com_finder\js\finder.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/com_tags/js/tag-default-es5.min.js?9ae94ab7ca1bede80466ad1a6d4a43494da3ab09
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\com_tags\js\tag-default-es5.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/com_tags/js/tag-default.min.js?e50254967a2061635caf9c13680ee040901b075a
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\com_tags\js\tag-default.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/legacy/js/joomla-chosen.min.js?0c46ddbcc4ec89d91289a46708edae3b
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\legacy\js\joomla-chosen.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\legacy\js\jquery-noconflict.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/mod_languages/css/template.min.css?0c46ddbcc4ec89d91289a46708edae3b
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\mod_languages\css\template.min.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/media/system/js/core.min.js?ee06c8994b37d13d4ad21c573bbffeeb9465c0e2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\system\js\core.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\system\js\messages-es5.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\system\js\messages.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/system/js/showon-es5.min.js?0e293ba9dec283752e25f4e1d5eb0a6f8c07d3be
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\system\js\showon-es5.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/system/js/showon.min.js?f79c256660e2c0ca2179cf7f3168ea8143e1af82
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\system\js\showon.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/vendor/bootstrap/js/alert.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\bootstrap\js\alert.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/vendor/bootstrap/js/bootstrap-es5.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\bootstrap\js\bootstrap-es5.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/vendor/bootstrap/js/button.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\bootstrap\js\button.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/vendor/bootstrap/js/carousel.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\bootstrap\js\carousel.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/vendor/bootstrap/js/collapse.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\bootstrap\js\collapse.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/vendor/bootstrap/js/dropdown.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\bootstrap\js\dropdown.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/vendor/bootstrap/js/modal.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\bootstrap\js\modal.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\bootstrap\js\offcanvas.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/vendor/bootstrap/js/popover.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\bootstrap\js\popover.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\bootstrap\js\scrollspy.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/vendor/bootstrap/js/tab.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\bootstrap\js\tab.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/vendor/bootstrap/js/toast.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\bootstrap\js\toast.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/vendor/chosen/css/chosen.css?1.8.7
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\chosen\css\chosen.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/media/vendor/chosen/js/chosen.jquery.min.js?1.8.7
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\chosen\js\chosen.jquery.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\joomla-custom-elements\css\joomla-alert.min.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/media/vendor/jquery/js/jquery.min.js?3.7.1
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\media\vendor\jquery\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://techex.windstripedesign.ro/plugins/system/helixultimate/assets/css/system-j4.min.css
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\plugins\system\helixultimate\assets\css\system-j4.min.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/templates/techex/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\templates\techex\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/templates/techex/css/custom.css
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\templates\techex\css\custom.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/templates/techex/css/presets/preset9.css
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\templates\techex\css\presets\preset9.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/templates/techex/css/template.css
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\templates\techex\css\template.css
+Content Type: text/css
+
+Uri: https://techex.windstripedesign.ro/templates/techex/js/main.js
+File Name: C:\Downloaded Web Sites\techex.windstripedesign.ro\templates\techex\js\main.js
+Content Type: application/javascript
+

@@ -1,0 +1,8 @@
+[15-May-2024 00:14:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home4/cellverse/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/cellverse/public_html/wp-includes/class.wp-styles.php on line 11
+[20-May-2024 04:22:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home4/cellverse/public_html/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home4/cellverse/public_html/wp-includes/class-IXR.php on line 42

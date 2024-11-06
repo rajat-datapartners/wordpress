@@ -1,0 +1,25 @@
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","ele_bg_type":"color","ele_bg_color":"#010102ff","ele_padding":"50px,0px,50px,0px","pagelayer-id":"9th373"} -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"3","pagelayer-id":"udr4177"} -->
+<!-- sp:pagelayer/pl_wp_title {"site_title_state":"normal","text-align":"left","title_color":"#ffffffff","title_padding":"0,0,0,0","site_title_style":",35,,,,,Solid,,,,","pagelayer-id":"6oz4228"} /-->
+<!-- sp:pagelayer/pl_heading {"text":"\u003cp\u003eIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.\u0026nbsp;\u003c\/p\u003e","heading_state":"normal","color":"#ffffffff","pagelayer-id":"x089866"} --><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.&nbsp;</p><!-- /sp:pagelayer/pl_heading -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"3","pagelayer-id":"0r19943"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch4\u003eContact Us\u003c\/h4\u003e","heading_state":"normal","color":"#ffffffff","pagelayer-id":"4jd1137"} --><h4>Contact Us</h4><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_email {"icon":"fas fa-envelope","color":"#ffffffff","icon_color":"#ffffffff","icon_size":"20","space":"10","pagelayer-id":"ikt1116"} /-->
+<!-- sp:pagelayer/pl_phone {"icon":"fas fa-phone-alt","color":"#ffffffff","icon_color":"#ffffffff","icon_size":"20","space":"10","pagelayer-id":"epq4294"} /-->
+<!-- sp:pagelayer/pl_address {"icon":"fas fa-map-marker-alt","color":"#ffffffff","icon_color":"#ffffffff","icon_size":"20","space":"10","pagelayer-id":"tqp3250"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"3","pagelayer-id":"dtd8053"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch4\u003eInstagram\u003c\/h4\u003e","heading_state":"normal","color":"#ffffffff","pagelayer-id":"lte1537"} --><h4>Instagram</h4><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_grid_gallery {"columns":"3","size":"thumbnail","link_to":"lightbox","align":"left","images_no":"30","ids":"{{theme_url}}\/images\/home3-5.jpg,{{theme_url}}\/images\/home3-6.jpg,{{theme_url}}\/images\/home3-4.jpg,{{theme_url}}\/images\/home3-2.jpg,{{theme_url}}\/images\/home2-3.jpg,{{theme_url}}\/images\/home3-1.jpg","pagelayer-id":"nrc7338"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"3","pagelayer-id":"obt4387"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch4\u003eFollow  Us\u003c\/h4\u003e","heading_state":"normal","color":"#ffffffff","pagelayer-id":"exk2301"} --><h4>Follow  Us</h4><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_share_grp {"type":"icon","bg_shape":"pagelayer-social-bg-none","align":"left","vspace":"2","hspace":"2","height":"35","icon_size":"35","icon_space":"5","color_scheme":"","icon_color":"#ffffffff","social_hover_delay":"400","name_typo":",15,,,,,solid,,,,","icon_bg_color":"#000000ff","pagelayer-id":"a3e7938"} -->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-facebook-square","pagelayer-id":"qac1475"} /-->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-twitter","pagelayer-id":"v0g2835"} /-->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-google-plus","pagelayer-id":"szj9827"} /-->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-instagram","pagelayer-id":"00f9211"} /-->
+<!-- /sp:pagelayer/pl_share_grp -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->

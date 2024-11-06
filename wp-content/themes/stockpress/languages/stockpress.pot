@@ -1,0 +1,65 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: StockPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-06 09:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: stockpress"
+
+#: footer.php:14 inc/customizer/stockpress-customizer-options.php:17
+msgid ""
+"Copyright &copy; 2023 | Powered by <a href=\"//wordpress.org/\">WordPress</a>"
+" <span class=\"sep\"> | </span> StockPress theme by <a target=\"_blank\" "
+"href=\"//themearile.com/\">ThemeArile</a>"
+msgstr ""
+
+#: inc/customizer/stockpress-customizer-options.php:22
+msgid "Footer Copyright"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themearile.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themearile.com/stockpress-theme/"
+msgstr ""
+
+#. Name of the theme
+msgid "StockPress"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"StockPress is a modern theme for all business consulting, business advisor, "
+"and consulting services websites. StockPress is a lightweight, super-fast "
+"theme to accelerate your efforts. It comes packed with powerful features for "
+"designing and customizing theme pages, advanced typography, sticky menu, "
+"header styles, logo upload, translation ready (WPML, Polylang), built with "
+"SEO in mind and it's built to be beautiful on all screen sizes. The theme is "
+"perfectly suited for business, consultant, finance, corporate, freelancer, "
+"agency, business promotion, personal portfolio, electrician, industries, "
+"education, SEO, construction, fashion, online shop, health &amp; medical, "
+"Beauty &amp; spa salons, wedding, photography, gym, cafe, music, interior "
+"design firms, architecture firms, lawyer, restaurant, hotel, blog, magazine, "
+"travel agency and many other websites compatible. This theme supports the "
+"best Elementor page builder to create, edit, and update page designs as per "
+"the requirement. StockPress also supports popular free and premium WordPress "
+"plugins such as Elementor, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, "
+"Google Analytics, and much more. Check the demo of StockPress Pro https:"
+"//themearile.com/aasta-pro-theme/."
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeArile"
+msgstr ""

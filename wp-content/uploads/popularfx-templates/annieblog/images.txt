@@ -1,0 +1,38 @@
+===================== Pixabay =====================
+
+category-1.png => https://pixabay.com/cs/illustrations/burger-ikona-hamburger-rychle-maso-2013191/
+category-2.png => https://pixabay.com/cs/illustrations/ryby-ikona-design-p%C5%99%C3%ADroda-mo%C5%99e-2389212/
+category-3.png => https://pixabay.com/cs/illustrations/pizza-ikona-potraviny-rychle-2389233/
+category-4.png => https://pixabay.com/cs/illustrations/houby-ikona-potraviny-znamen%C3%AD-2389225/
+category-5.png => https://pixabay.com/cs/illustrations/chl%C3%A9b-ikona-potraviny-design-2389247/
+category-6.png => https://pixabay.com/cs/illustrations/sma%C5%BEen%C3%A9-ku%C5%99e-ikona-potraviny-ku%C5%99e-2389214/
+category-7.png => https://pixabay.com/cs/illustrations/s%C3%BDr-ikona-potraviny-j%C3%ADdlo-ploch%C3%BD-2389218/
+category-8.png => https://pixabay.com/cs/illustrations/nudle-ikona-potraviny-j%C3%ADdlo-ob%C4%9Bd-2389221/
+category-9.png => https://pixabay.com/cs/illustrations/n%C5%AF%C5%BE-ikona-symbol-potraviny-kuchyn%C4%9B-2389220/
+
+===================== Unsplash =====================
+
+about-1.jpg => https://unsplash.com/photos/JN0SUcTOig0
+banner.jpg => https://unsplash.com/photos/-YHSwy6uqvk
+home1-1.jpg => https://unsplash.com/photos/ubllfdaKreI
+home1-2.jpg => https://unsplash.com/photos/rmdo8r9iGfw
+home1-3.jpg => https://unsplash.com/photos/HlNcigvUi4Q
+home1-4.jpg => https://unsplash.com/photos/aGjP08-HbYY
+home2-1.jpg => https://unsplash.com/photos/fdlZBWIP0aM
+home2-2.jpg => https://unsplash.com/photos/rmdo8r9iGfw
+home2-3.jpg => https://unsplash.com/photos/ZuIDLSz3XLg
+home3-1.jpg => https://unsplash.com/photos/fdlZBWIP0aM
+home3-2.jpg => https://unsplash.com/photos/KSAThuJ9mjs	
+home3-3.jpg => https://unsplash.com/photos/AKCB74kr4UI
+home3-4.jpg => https://unsplash.com/photos/ZuIDLSz3XLg
+home3-5.jpg => https://unsplash.com/photos/KSAThuJ9mjs
+home3-6.jpg => https://unsplash.com/photos/r01ZopTiEV8
+home-bg1.jpg => https://unsplash.com/photos/JN0SUcTOig0
+other-banner.jpg => https://unsplash.com/photos/aGjP08-HbYY
+client1.jpg => https://unsplash.com/photos/4nulm-JUYFo
+client1.jpg => https://unsplash.com/photos/4nulm-JUYFo
+client1.jpg => https://unsplash.com/photos/4nulm-JUYFo
+blog1=>https://unsplash.com/photos/98Xi5vMGKck
+blog2=>https://unsplash.com/photos/iCTKQBWNhVU
+blog3=>https://unsplash.com/photos/R4zSXgDZLEU
+blog4=>https://unsplash.com/photos/QcUJLRMDryQ

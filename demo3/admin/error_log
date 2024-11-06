@@ -1,0 +1,26 @@
+[29-Feb-2024 11:49:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/cellverse/public_html/demo/admin/includes/config.php on line 6
+[29-Feb-2024 11:49:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home4/cellverse/public_html/demo/admin/includes/config.php on line 6
+[29-Feb-2024 11:51:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cellvers_wp755'@'localhost' (using password: YES) in /home4/cellverse/public_html/demo/admin/includes/config.php on line 6
+[29-Feb-2024 11:51:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cellvers_wp755'@'localhost' (using password: NO) in /home4/cellverse/public_html/demo/admin/includes/config.php on line 6
+[29-Feb-2024 11:51:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cellvers_wp755'@'localhost' (using password: NO) in /home4/cellverse/public_html/demo/admin/includes/config.php on line 6
+[29-Feb-2024 11:51:51 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home4/cellverse/public_html/demo/admin/index.php:12
+Stack trace:
+#0 /home4/cellverse/public_html/demo/admin/index.php(12): mysqli_query(false, 'SELECT AdminUse...')
+#1 {main}
+  thrown in /home4/cellverse/public_html/demo/admin/index.php on line 12
+[29-Feb-2024 11:51:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cellvers_wp755'@'localhost' (using password: NO) in /home4/cellverse/public_html/demo/admin/includes/config.php on line 6
+[29-Feb-2024 11:53:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cellvers_wp755'@'localhost' (using password: YES) in /home4/cellverse/public_html/demo/admin/includes/config.php on line 6
+[29-Feb-2024 11:53:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cellvers_wp755'@'localhost' (using password: YES) in /home4/cellverse/public_html/demo/admin/includes/config.php on line 6
+[29-Feb-2024 11:54:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cellvers_wp755'@'rs019.webhostbox.net' (using password: YES) in /home4/cellverse/public_html/demo/admin/includes/config.php on line 6
+[29-Feb-2024 11:56:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cellvers_wp755'@'rs019.webhostbox.net' (using password: YES) in /home4/cellverse/public_html/demo/admin/includes/config.php on line 6
+[29-Feb-2024 11:56:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cellvers_wp755'@'localhost' (using password: YES) in /home4/cellverse/public_html/demo/admin/includes/config.php on line 6
+[29-Feb-2024 11:56:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cellvers_wp755'@'localhost' (using password: YES) in /home4/cellverse/public_html/demo/admin/includes/config.php on line 6
+[15-Mar-2024 10:51:23 UTC] PHP Parse error:  Unmatched '}' in /home4/cellverse/public_html/admin/edit-job.php on line 111
+[15-Mar-2024 10:51:32 UTC] PHP Parse error:  Unmatched '}' in /home4/cellverse/public_html/admin/edit-job.php on line 111
+[15-Mar-2024 10:51:40 UTC] PHP Parse error:  Unmatched '}' in /home4/cellverse/public_html/admin/edit-job.php on line 111
+[15-Mar-2024 10:52:00 UTC] PHP Parse error:  Unmatched '}' in /home4/cellverse/public_html/admin/edit-job.php on line 111
+[15-Mar-2024 10:52:09 UTC] PHP Parse error:  Unmatched '}' in /home4/cellverse/public_html/admin/edit-job.php on line 111
+[15-Mar-2024 10:52:21 UTC] PHP Parse error:  Unmatched '}' in /home4/cellverse/public_html/admin/edit-job.php on line 111
+[15-Mar-2024 10:54:24 UTC] PHP Parse error:  Unmatched '}' in /home4/cellverse/public_html/admin/edit-job.php on line 111
+[15-Mar-2024 10:56:54 UTC] PHP Parse error:  Unmatched '}' in /home4/cellverse/public_html/admin/edit-job.php on line 113
+[15-Mar-2024 10:57:33 UTC] PHP Parse error:  Unmatched '}' in /home4/cellverse/public_html/admin/edit-job.php on line 113
